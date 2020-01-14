@@ -1,3 +1,5 @@
+Projeto realizado no curso de Spring MVC da plataforma online ALURA.
+
 1) Para compilar e empacotar na linha de comando use:
 
 > mvn clean package
